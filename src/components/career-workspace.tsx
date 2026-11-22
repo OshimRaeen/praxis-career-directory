@@ -4,6 +4,7 @@ import { useState } from "react";
 import type { JobListing, RoleProfile } from "@/types/career";
 import { SiteHeader, type WorkspaceTab } from "@/components/layout/site-header";
 import { CareerAtlas } from "@/components/directory/career-atlas";
+import { JobBoard } from "@/components/board/job-board";
 
 interface CareerWorkspaceProps {
   roles: RoleProfile[];
@@ -46,17 +47,13 @@ export function CareerWorkspace({ roles, listings }: CareerWorkspaceProps) {
         )}
 
         {activeTab === "board" && (
-          <div className="rounded-xl border border-dashed border-line-strong bg-surface-tint p-10 text-center">
-            <p className="font-mono text-xs uppercase tracking-wider text-brand-clay">
-              Step 4 · Coming Next
-            </p>
-            <h2 className="mt-2 text-lg font-bold text-brand-navy">
-              Live Job Board ({listings.length} listings)
-            </h2>
-            <p className="mt-1 text-xs text-ink-muted">
-              Pre-filtered role slug: <code>{selectedBoardRole}</code>
-            </p>
-          </div>
+          <JobBoard
+            listings={listings}
+            roles={roles}
+            roleSlug={selectedBoardRole}
+            onRoleSlugChange={setSelectedBoardRole}
+            onStartRoadmap={handleStartRoadmap}
+          />
         )}
 
         {activeTab === "roadmap" && (
