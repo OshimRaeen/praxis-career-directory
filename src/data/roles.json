@@ -1,0 +1,506 @@
+[
+  {
+    "slug": "frontend-developer",
+    "jobFamily": "Full-Stack Development",
+    "roleCategory": "Frontend Developer",
+    "totalListings": 19,
+    "remoteCount": 2,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Build and maintain user interfaces",
+        "turn designs into responsive pages",
+        "fix UI bugs",
+        "work with APIs."
+      ],
+      "coreSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript/TypeScript",
+        "React or similar",
+        "Git",
+        "responsive design."
+      ],
+      "nextRoles": [
+        "Senior Frontend Developer",
+        "Full-Stack Developer",
+        "UI Engineer"
+      ]
+    },
+    "observedSkills": [
+      "React",
+      "React Native",
+      "TypeScript"
+    ],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 18,
+        "disclosedPayCount": 15,
+        "startingMin": 400000,
+        "avgMin": 1086667,
+        "avgMax": 1513333,
+        "ceilingMax": 4500000,
+        "lowSampleWarning": false
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 2,
+      "minPercent": 0.1,
+      "maxPercent": 4
+    }
+  },
+  {
+    "slug": "backend-developer",
+    "jobFamily": "Full-Stack Development",
+    "roleCategory": "Backend Developer",
+    "totalListings": 23,
+    "remoteCount": 2,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Design and build APIs and services",
+        "manage databases",
+        "handle authentication, performance and reliability."
+      ],
+      "coreSkills": [
+        "A server language (Node.js",
+        "Python",
+        "Java",
+        "Go)",
+        "SQL/NoSQL databases",
+        "REST APIs",
+        "Git",
+        "cloud basics."
+      ],
+      "nextRoles": [
+        "Senior Backend Developer",
+        "Full-Stack Developer",
+        "DevOps or Platform Engineer"
+      ]
+    },
+    "observedSkills": [
+      "Java",
+      "Go",
+      "Python",
+      "Rust",
+      "TypeScript"
+    ],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 23,
+        "disclosedPayCount": 22,
+        "startingMin": 300000,
+        "avgMin": 1743182,
+        "avgMax": 3009091,
+        "ceilingMax": 7000000,
+        "lowSampleWarning": false
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 7,
+      "minPercent": 0.01,
+      "maxPercent": 1
+    }
+  },
+  {
+    "slug": "full-stack-developer",
+    "jobFamily": "Full-Stack Development",
+    "roleCategory": "Full-Stack Developer",
+    "totalListings": 26,
+    "remoteCount": 11,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Build features end to end across front end, back end and database",
+        "deploy and maintain them."
+      ],
+      "coreSkills": [
+        "JavaScript/TypeScript",
+        "React or Angular",
+        "Node.js or Java",
+        "SQL",
+        "APIs",
+        "Git",
+        "basic cloud."
+      ],
+      "nextRoles": [
+        "Senior Full-Stack Developer",
+        "Tech Lead",
+        "Software Engineer"
+      ]
+    },
+    "observedSkills": [
+      "React",
+      "Java",
+      "Angular",
+      "Node.js",
+      "AWS",
+      "Laravel",
+      "PHP/Laravel",
+      "Python"
+    ],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 11,
+        "disclosedPayCount": 8,
+        "startingMin": 600000,
+        "avgMin": 1337500,
+        "avgMax": 2087500,
+        "ceilingMax": 3500000,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 5,
+        "disclosedPayCount": 4,
+        "startingMin": 24000,
+        "avgMin": 39500,
+        "avgMax": 51500,
+        "ceilingMax": 80000,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 5,
+      "minPercent": 0.001,
+      "maxPercent": 10
+    }
+  },
+  {
+    "slug": "software-engineer",
+    "jobFamily": "Full-Stack Development",
+    "roleCategory": "Software Engineer",
+    "totalListings": 2,
+    "remoteCount": 1,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "General product engineering: design, code, test and review software, often with team ownership of a service."
+      ],
+      "coreSkills": [
+        "Programming fundamentals",
+        "data structures",
+        "system design basics",
+        "testing",
+        "Git."
+      ],
+      "nextRoles": [
+        "Senior Software Engineer",
+        "Staff Engineer",
+        "Engineering Manager"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 1,
+        "disclosedPayCount": 1,
+        "startingMin": 2500000,
+        "avgMin": 2500000,
+        "avgMax": 3000000,
+        "ceilingMax": 3000000,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 1,
+      "minPercent": 0.05,
+      "maxPercent": 0.1
+    }
+  },
+  {
+    "slug": "hr-manager",
+    "jobFamily": "HR & Recruitment",
+    "roleCategory": "HR Manager",
+    "totalListings": 11,
+    "remoteCount": 1,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Run day-to-day HR for a company: hiring coordination, onboarding, policy, employee relations, compliance."
+      ],
+      "coreSkills": [
+        "Communication",
+        "labour-law basics",
+        "HR policy",
+        "hiring",
+        "conflict handling."
+      ],
+      "nextRoles": [
+        "Senior HR Manager",
+        "Head of People",
+        "HR Business Partner"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 4,
+        "disclosedPayCount": 3,
+        "startingMin": 500000,
+        "avgMin": 616667,
+        "avgMax": 966667,
+        "ceilingMax": 1200000,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 5,
+        "disclosedPayCount": 5,
+        "startingMin": 90000,
+        "avgMin": 111800,
+        "avgMax": 137600,
+        "ceilingMax": 180000,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 0,
+      "minPercent": null,
+      "maxPercent": null
+    }
+  },
+  {
+    "slug": "hr-business-partner",
+    "jobFamily": "HR & Recruitment",
+    "roleCategory": "HR Business Partner",
+    "totalListings": 1,
+    "remoteCount": 1,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Advise leaders on people strategy, performance, organisation design and employee issues."
+      ],
+      "coreSkills": [
+        "Stakeholder management",
+        "employee relations",
+        "data-informed decisions",
+        "change management."
+      ],
+      "nextRoles": [
+        "Senior HRBP",
+        "Head of People"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 1,
+        "disclosedPayCount": 1,
+        "startingMin": 133000,
+        "avgMin": 133000,
+        "avgMax": 180000,
+        "ceilingMax": 180000,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 0,
+      "minPercent": null,
+      "maxPercent": null
+    }
+  },
+  {
+    "slug": "hr-operations-specialist",
+    "jobFamily": "HR & Recruitment",
+    "roleCategory": "HR Operations Specialist",
+    "totalListings": 2,
+    "remoteCount": 0,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Handle HR processes and systems: onboarding, records, payroll inputs, HRIS data, documentation."
+      ],
+      "coreSkills": [
+        "Process discipline",
+        "HRIS tools",
+        "spreadsheets",
+        "attention to detail."
+      ],
+      "nextRoles": [
+        "HR Manager",
+        "People Operations Manager"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 2,
+        "disclosedPayCount": 2,
+        "startingMin": 360000,
+        "avgMin": 480000,
+        "avgMax": 725000,
+        "ceilingMax": 750000,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 0,
+      "minPercent": null,
+      "maxPercent": null
+    }
+  },
+  {
+    "slug": "recruiter-talent-acquisition",
+    "jobFamily": "HR & Recruitment",
+    "roleCategory": "Recruiter / Talent Acquisition",
+    "totalListings": 8,
+    "remoteCount": 6,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Source and screen candidates, schedule interviews, coordinate offers, keep hiring pipelines moving."
+      ],
+      "coreSkills": [
+        "Sourcing",
+        "interviewing",
+        "ATS tools",
+        "communication",
+        "negotiation."
+      ],
+      "nextRoles": [
+        "Senior Recruiter",
+        "Technical Recruiter",
+        "Talent Acquisition Lead"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 3,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 3,
+        "disclosedPayCount": 3,
+        "startingMin": 30000,
+        "avgMin": 60000,
+        "avgMax": 91667,
+        "ceilingMax": 120000,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 1,
+      "minPercent": 0.1,
+      "maxPercent": 2
+    }
+  },
+  {
+    "slug": "technical-recruiter",
+    "jobFamily": "HR & Recruitment",
+    "roleCategory": "Technical Recruiter",
+    "totalListings": 3,
+    "remoteCount": 3,
+    "guidance": {
+      "isGeneralGuidance": true,
+      "responsibilities": [
+        "Recruit engineers and technical staff",
+        "understand tech stacks well enough to screen candidates."
+      ],
+      "coreSkills": [
+        "Tech literacy",
+        "sourcing",
+        "ATS tools",
+        "stakeholder management with engineering leads."
+      ],
+      "nextRoles": [
+        "Senior Technical Recruiter",
+        "Talent Acquisition Lead",
+        "Recruiting Manager"
+      ]
+    },
+    "observedSkills": [],
+    "markets": {
+      "indiaInr": {
+        "currency": "INR",
+        "listingCount": 0,
+        "disclosedPayCount": 0,
+        "startingMin": null,
+        "avgMin": null,
+        "avgMax": null,
+        "ceilingMax": null,
+        "lowSampleWarning": true
+      },
+      "globalUsd": {
+        "currency": "USD",
+        "listingCount": 3,
+        "disclosedPayCount": 3,
+        "startingMin": 24000,
+        "avgMin": 96333,
+        "avgMax": 126667,
+        "ceilingMax": 250000,
+        "lowSampleWarning": true
+      }
+    },
+    "equitySummary": {
+      "disclosedCount": 1,
+      "minPercent": 1.5,
+      "maxPercent": 2
+    }
+  }
+]
