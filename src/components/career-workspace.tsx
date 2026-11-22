@@ -5,6 +5,7 @@ import type { JobListing, RoleProfile } from "@/types/career";
 import { SiteHeader, type WorkspaceTab } from "@/components/layout/site-header";
 import { CareerAtlas } from "@/components/directory/career-atlas";
 import { JobBoard } from "@/components/board/job-board";
+import { RoadmapBuilder } from "@/components/roadmap/roadmap-builder";
 
 interface CareerWorkspaceProps {
   roles: RoleProfile[];
@@ -57,17 +58,10 @@ export function CareerWorkspace({ roles, listings }: CareerWorkspaceProps) {
         )}
 
         {activeTab === "roadmap" && (
-          <div className="rounded-xl border border-dashed border-line-strong bg-surface-tint p-10 text-center">
-            <p className="font-mono text-xs uppercase tracking-wider text-brand-clay">
-              Step 5 · Coming Next
-            </p>
-            <h2 className="mt-2 text-lg font-bold text-brand-navy">
-              AI Career Roadmap Builder
-            </h2>
-            <p className="mt-1 text-xs text-ink-muted">
-              Target role selected: <code>{roadmapTargetRole}</code>
-            </p>
-          </div>
+          <RoadmapBuilder
+            roles={roles}
+            initialTargetRole={roadmapTargetRole}
+          />
         )}
       </main>
 
